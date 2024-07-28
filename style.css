@@ -31,3 +31,19 @@ a{
     text-decoration: none;
     color: #000
 }
+h1, h2, h3, h4, h5, h6, p{
+    margin: 15px 0;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container{
+    width: 90vw;
+    margin: 0 auto;
+    
+}
