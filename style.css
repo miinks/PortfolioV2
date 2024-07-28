@@ -91,3 +91,14 @@ h1, h2, h3, h4, h5, h6, p{
     letter-spacing: 5px;
     cursor: pointer;
 }
+.navBtn{
+    width: 40px;
+    height: 40px;
+    border: 1px solid var(--white);
+    cursor: pointer;
+}
+.navBtn:hover{
+    background: #fff;
+    color: #000;
+    transition: var(--transition);
+}
