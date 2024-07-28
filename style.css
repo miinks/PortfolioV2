@@ -45,5 +45,21 @@ h1, h2, h3, h4, h5, h6, p{
 .container{
     width: 90vw;
     margin: 0 auto;
-    
+}
+
+.btn{
+    background: var(--darkgreen);
+    border: none;
+    display: block;
+    width: 150px;
+    text-align: center;
+    color: var(--darkgreen);
+    text-transform: uppercase;
+    background: transparent;
+    font-size: 15px;
+    padding: 2px solid;
+    border: 2px solid var(--darkgreen);
+    border-radius: 25px;
+    margin: 15px 0;
+    transition: var(--transition);
 }
