@@ -110,3 +110,16 @@ h1, h2, h3, h4, h5, h6, p{
 .showNav{
     transform: translateY(0);
 }
+.search-icon{
+    display: none;
+}
+.top-nav ul li{
+    padding: 10px 0;
+}
+.top-nav ul a{
+    position: relative;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    display: block;
+}
