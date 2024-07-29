@@ -174,3 +174,11 @@ blockquote{
     margin: 45px auto 15px auto;
     text-align: center;
 }
+blockquote span{
+    font-size: 14px;
+    text-transform: uppercase;
+    color: var(--darkGreen);
+    font-weight: 300;
+    letter-spacing: 5px;
+    display: block;
+}
