@@ -123,3 +123,14 @@ h1, h2, h3, h4, h5, h6, p{
     text-align: center;
     display: block;
 }
+.top-nav ul a::after{
+    content: "";
+    height: 2px;
+    background: var(--lightGreen);
+    position: absolute;
+    bottom: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    transition: var(--transition);
+}
