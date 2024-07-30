@@ -209,7 +209,7 @@ blockquote span{
     border-color: var(--lightGreen);
 }
 
-/section1/
+
 
 .section-one{
     margin: 40px 0;
@@ -221,4 +221,12 @@ blockquote span{
     box-shadow: 0px 0px 14px -1px rgba(0, 0, 0, 0.75);
     -webkit-box-shadow: 0px 0px 14px -1px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 0px 14px -1px rgba(0, 0, 0, 0.75);
+}
+.sec-one-left div{
+    color: #fff;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 30px;
 }
