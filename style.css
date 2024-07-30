@@ -238,3 +238,6 @@ blockquote span{
     font-weight: 300;
     opacity: 0.8;
 }
+.sec-one-right h3{
+    color: var(--lightGrey);
+}
