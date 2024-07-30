@@ -244,3 +244,7 @@ blockquote span{
 .sec-one-right >h3{
     text-align: center;
 }
+.sec-one-right p{
+    opacity: 0.9;
+    font-weight: 300;
+}
