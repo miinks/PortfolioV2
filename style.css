@@ -241,3 +241,6 @@ blockquote span{
 .sec-one-right h3{
     color: var(--lightGrey);
 }
+.sec-one-right >h3{
+    text-align: center;
+}
