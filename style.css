@@ -230,3 +230,7 @@ blockquote span{
     justify-content: flex-end;
     padding: 30px;
 }
+.sec-one-left div h3{
+    font-size: 28px;
+    opacity: 0.9;
+}
