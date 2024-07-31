@@ -311,3 +311,15 @@ blockquote span{
 .section-three{
     margin: 40px 0;
 }
+
+
+
+
+
+
+.footer{
+    background: var(--dark);
+    color: #fff;
+    padding: 40px 0;
+    text-align: center;
+}
