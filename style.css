@@ -367,3 +367,10 @@ blockquote span{
     transition: var(--transition);
     cursor: pointer;
 }
+.subs button:hover{
+    color: #fff;
+}
+.footer > p{
+    text-align: center;
+    font-size: 14px;
+}
