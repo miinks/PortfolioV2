@@ -306,3 +306,8 @@ blockquote span{
 .insta-imgs > div:hover .icon-overlay{
     opacity: 1;
 }
+
+
+.section-three{
+    margin: 40px 0;
+}
