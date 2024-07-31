@@ -2,7 +2,7 @@
 
 :root{
     --white: #ddd;
-    --dark: #111;
+    --dark: #000000;
     --lightGrey: #474b4f;
     --lightgreen: #000000;
     --darkgreen: #000000;
@@ -342,4 +342,9 @@ blockquote span{
     justify-content: space-between;
     align-items: center;
     margin: 30px auto;
+}
+.subs i{
+    font-size: 26px;
+    flex: 10%;
+    display: block;
 }
