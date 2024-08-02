@@ -378,3 +378,7 @@ blockquote span{
 .section-three{
     margin: 40px 0;
 }
+.single-img{
+    position: relative;
+    margin: 10px;
+}
