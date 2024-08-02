@@ -319,7 +319,7 @@ blockquote span{
 
 .footer{
     background: var(--dark);
-    color: #fff;
+    color: #ffffff;
     padding: 40px 0;
     text-align: center;
 }
@@ -336,7 +336,7 @@ blockquote span{
     opacity: 0.7;
 }
 .subs{
-    background: #000;
+    background: #000000;
     width: 350px;
     display: flex;
     justify-content: space-between;
@@ -373,4 +373,8 @@ blockquote span{
 .footer > p{
     text-align: center;
     font-size: 14px;
+}
+
+.section-three{
+    margin: 40px 0;
 }
