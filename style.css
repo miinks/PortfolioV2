@@ -391,3 +391,9 @@ blockquote span{
     padding: 5px 30px;
     background: rgba(0, 0, 0, 0.7);
 }
+
+.single-img-content h3{
+    font-size: 18px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
