@@ -382,3 +382,12 @@ blockquote span{
     position: relative;
     margin: 10px;
 }
+.single-img-content{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: #fff;
+    padding: 5px 30px;
+    background: rgba(0, 0, 0, 0.7);
+}
