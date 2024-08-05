@@ -406,3 +406,14 @@ blockquote span{
 .section-five .container div{
     margin: 20px 0;
 }
+.contact-top{
+    text-align: center;
+}
+.contact-top h3{
+    font-size: 28px;
+}
+.contact-top p{
+    font-weight: 300;
+    width: 70%;
+    margin: 0 auto;
+}
