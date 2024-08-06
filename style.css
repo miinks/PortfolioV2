@@ -498,5 +498,8 @@ blockquote span{
         transform: translateY(0);
         background: transparent;
     }
+    .top-nav ul{
+        display: flex;
+    }
 }
 
