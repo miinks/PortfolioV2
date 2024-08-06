@@ -489,5 +489,14 @@ blockquote span{
         flex: 0 0 10%;
         background: none;
     }
+    .top-nav{
+        flex: 0 1 100%;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        transition: transform 0s ease;
+        transform: translateY(0);
+        background: transparent;
+    }
 }
 
