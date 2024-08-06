@@ -501,5 +501,9 @@ blockquote span{
     .top-nav ul{
         display: flex;
     }
+    .top-nav ul li{
+        margin-right: 30px;
+        margin-left: 30px;
+    }
 }
 
