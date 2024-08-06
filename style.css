@@ -257,12 +257,12 @@ blockquote span{
     grid-column-gap: 20px;
 }
 .work-img-1{
-    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url("images/bg6.png") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url("images/bg8.jpg") center/cover no-repeat;
     height: 400px;
     transition: var(--transition);
 }
 .work-img-2{
-    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url("images/bg7.png") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6)), url("images/bg6.png") center/cover no-repeat;
     height: 400px;
     transition: var(--transition);
 }
@@ -421,7 +421,7 @@ blockquote span{
     text-align: center;
     padding: 25px 0;
     background: var(--dark);
-    color: #fff;
+    color: #ffffff;
 }
 .contact-middle div span{
     display: block;
@@ -445,13 +445,21 @@ blockquote span{
     font-size: 16px;
     padding: 10px 15px;
     margin: 10px 0;
-    border: 1px solid var(--lightGreen);
+    border: 2px solid var(--dark);
     outline: none;
     border-radius: 5px;
+    
 }
 .contact-bottom .form{
     padding: 0 20px;
 }
 
 /*** Media Queries ***/
+@media sceen and (min-width: 678px){
+    .contact-middle{
+        display:grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 20px;
+    }
+}
 
