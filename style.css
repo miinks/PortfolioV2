@@ -485,5 +485,9 @@ blockquote span{
     .navBtn{
         display: none;
     }
+    .brand-and-navBtn{
+        flex: 0 0 10%;
+        background: none;
+    }
 }
 
