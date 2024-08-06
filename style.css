@@ -505,5 +505,8 @@ blockquote span{
         margin-right: 30px;
         margin-left: 30px;
     }
+    .about{
+        margin-top: 0;
+    }
 }
 
