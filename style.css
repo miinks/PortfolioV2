@@ -482,5 +482,8 @@ blockquote span{
         display: flex;
         justify-content: space-between;
     }
+    .navBtn{
+        display: none;
+    }
 }
 
