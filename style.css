@@ -546,5 +546,10 @@ blockquote span{
     .sec-one-left{
         height: 100%;
     }
+    .blog-wrapper-lg{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 20px;
+    }
 }
 
