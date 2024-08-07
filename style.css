@@ -508,5 +508,15 @@ blockquote span{
     .about{
         margin-top: 0;
     }
+    .search-icon{
+        flex: 0 0 10%;
+        display: block;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 24px;
+        cursor: pointer;
+        transition: var(--transition);
+    }
 }
 
