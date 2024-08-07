@@ -521,6 +521,9 @@ blockquote span{
     .search-icon i:hover{
         transform: scale(1.2);
     }
+    .contact-middle{
+        grid-template-columns: repeat(4, 1fr);
+    }
 
 }
 
