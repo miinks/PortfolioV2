@@ -537,5 +537,14 @@ blockquote span{
         grid-template-columns: repeat(2, 1fr);
         grid-column-gap: 50px;
     }
+    .sec-one-left{
+        align-self: center;
+    }
+    .work-content{
+        margin-top: 0;
+    }
+    .sec-one-left{
+        height: 100%;
+    }
 }
 
