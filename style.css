@@ -524,6 +524,11 @@ blockquote span{
     .contact-middle{
         grid-template-columns: repeat(4, 1fr);
     }
+    .contact-bottom{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 40px;
+    }
 
 }
 
