@@ -18,7 +18,8 @@
 
 body{ 
     line-height: 1.6;
-    overflow: hidden;
+    overflow-y: scroll;
+    scrollbar-width: none;
 }
 img {
     width: 100%;
