@@ -18,8 +18,10 @@
 
 body{ 
     line-height: 1.6;
-    overflow-y: scroll;
-    scrollbar-width: none;
+    
+}
+::-webkit-scrollbar{
+    display: none;
 }
 img {
     width: 100%;
