@@ -24,5 +24,5 @@ Welcome to my personal portfolio! This site showcases my skills and projects as 
 
 Feel free to explore my work and reach out if you're interested in collaborating or learning more about what I do. Thanks for visiting!
 
----
+----
 
